@@ -1,5 +1,6 @@
 # Reconhecimento de expressão facial com RaspBerry
 Repositório criado com a finalidade de compartilhar os códigos desenvolvidos durante o meu trabalho de conclusão de curso (Engenharia da Computação) intitulado "**Acionamento direcional motor através de reconhecimento de expressões faciais**".
+
 ![](./img/exReconhecimento.jpg)
 
 ## Objetivo
